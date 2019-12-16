@@ -38,7 +38,7 @@ p[class="even"] {
 
 #p6 {
     text-indent: 50px;
-    text-shadow: 2px, 2px, rgb(255, 0, 0);
+    text-shadow: 2px 2px blueviolet;
 }
 
 #p7 {
@@ -46,6 +46,6 @@ p[class="even"] {
 }
 
 #p8 {
-    white-space: 50px;
+    white-space: pre;
     text-transform: capitalize;
 }
